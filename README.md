@@ -3,7 +3,7 @@
 👀 Computer science student at MIPT<br/>
 🪄 Design student at Netology<br/>
 🥺 I just wanna be DevOps and Software Engineer<br/>
-You can also see my achievements here:<br/>
+**You can also see my achievements here:**<br/>
 [![Google drive](https://img.shields.io/badge/Google_drive-red%3Flogo%3Dgoogle?style=flat-square&color=red)](https://drive.google.com/drive/folders/1w4YNWchmelSBfeUjBAomacjj8eu883U2?usp=share_link)<br/>
 
 ## 🌐 Socials:
