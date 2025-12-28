@@ -3,7 +3,7 @@
 👀 Computer science student at MIPT<br/>
 🪄 Design student at Netology<br/>
 🥺 I just wanna be DevOps and Software Engineer<br/>
-You can also see my achievements here: ![Folder](https://drive.google.com/drive/folders/1w4YNWchmelSBfeUjBAomacjj8eu883U2?usp=share_link)<br/>
+You can also see my achievements here: ![Inbox](https://drive.google.com/drive/folders/1w4YNWchmelSBfeUjBAomacjj8eu883U2?usp=share_link)<br/>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/dinasit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinasit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sitnickova.diana@gmail.com) 
