@@ -7,8 +7,8 @@
 [![Google drive](https://img.shields.io/badge/Google_drive-red%3Flogo%3Dgoogle?style=plastic&color=red)](https://drive.google.com/drive/folders/1w4YNWchmelSBfeUjBAomacjj8eu883U2?usp=share_link)<br/>
 
 ## 🌐 Socials: 
-![LeetCode](https://leetcode.com/u/DinaSit/)
-![GitLab](https://gitlab.akhcheck.ru/diana.sitnikova)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/DinaSit/) 
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)](https://gitlab.akhcheck.ru/diana.sitnikova) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinasit) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sitnickova.diana@gmail.com) 
 
