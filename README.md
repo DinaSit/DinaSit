@@ -4,8 +4,8 @@
 🪄 UX/UI Design student at Netology<br/>
 I’m interested in systems programming, DevOps, and high-performance software development.
 Currently focusing on C++, algorithms, Linux systems and distributed infrastructure.<br/>
-*You can also see my achievements here:*<br/>
-[![Google drive](https://img.shields.io/badge/Google_drive-red%3Flogo%3Dgoogle?style=plastic&color=red)](https://drive.google.com/drive/folders/1w4YNWchmelSBfeUjBAomacjj8eu883U2?usp=share_link)<br/>
+
+[![Google drive](https://img.shields.io/badge/Google_drive-red%3Flogo%3Dgoogle?style=plastic&color=red)](https://drive.google.com/drive/folders/1w4YNWchmelSBfeUjBAomacjj8eu883U2?usp=share_link) *You can also see my achievements here:*
 
 ## 🌐 Socials
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/DinaSit/) 
