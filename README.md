@@ -5,8 +5,6 @@
 I’m interested in systems programming, DevOps, and high-performance software development.
 Currently focusing on C++, algorithms, Linux systems and distributed infrastructure.<br/>
 
-*You can also see my achievements here:* [![Google drive](https://img.shields.io/badge/Google_drive-red%3Flogo%3Dgoogle?style=plastic&color=red)](https://drive.google.com/drive/folders/1w4YNWchmelSBfeUjBAomacjj8eu883U2?usp=share_link)
-
 ## 🌐 Socials
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/DinaSit/) 
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)](https://gitlab.akhcheck.ru/diana.sitnikova) 
@@ -37,4 +35,6 @@ Currently focusing on C++, algorithms, Linux systems and distributed infrastruct
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)<br/>
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)<br/>
+
+*You can also see my achievements here:* [![Google drive](https://img.shields.io/badge/Google_drive-red%3Flogo%3Dgoogle?style=plastic&color=red)](https://drive.google.com/drive/folders/1w4YNWchmelSBfeUjBAomacjj8eu883U2?usp=share_link)
