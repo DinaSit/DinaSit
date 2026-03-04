@@ -5,7 +5,7 @@
 I’m interested in systems programming, DevOps, and high-performance software development.
 Currently focusing on C++, algorithms, Linux systems and distributed infrastructure.<br/>
 
-[![Google drive](https://img.shields.io/badge/Google_drive-red%3Flogo%3Dgoogle?style=plastic&color=red)](https://drive.google.com/drive/folders/1w4YNWchmelSBfeUjBAomacjj8eu883U2?usp=share_link) *You can also see my achievements here:*
+*You can also see my achievements here:* [![Google drive](https://img.shields.io/badge/Google_drive-red%3Flogo%3Dgoogle?style=plastic&color=red)](https://drive.google.com/drive/folders/1w4YNWchmelSBfeUjBAomacjj8eu883U2?usp=share_link)
 
 ## 🌐 Socials
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/DinaSit/) 
