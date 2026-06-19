@@ -7,7 +7,7 @@ Currently focusing on C++, algorithms, Linux systems and distributed infrastruct
 
 ## 🌐 Socials
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/DinaSit/) 
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)](https://gitlab.akhcheck.ru/diana.sitnikova)<br/>
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)](https://gitlab.akhcheck.ru/diana.sitnikova)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinasit) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sitnickova.diana@gmail.com) 
 
