@@ -15,10 +15,9 @@ Currently focusing on C++, algorithms, Linux systems and distributed infrastruct
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)<br/>
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)<br/>
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) 
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) 
 ![YAML](https://img.shields.io/badge/YAML-%23CB171E.svg?style=flat&logo=yaml&logoColor=white) 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)<br/>
