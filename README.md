@@ -35,4 +35,4 @@ Currently focusing on C++, algorithms, Linux systems and distributed infrastruct
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)<br/>
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)<br/>
 
-*You can also see my achievements here:* [![Google drive](https://img.shields.io/badge/Google_drive-red%3Flogo%3Dgoogle?style=plastic&color=red)](https://drive.google.com/drive/folders/1w4YNWchmelSBfeUjBAomacjj8eu883U2?usp=share_link)
+*You can also see my achievements here:* [![Google drive](https://img.shields.io/badge/Google_drive-red%3Flogo%3Dgoogle?style=plastic&color=red)](https://drive.google.com/drive/folders/1WECF9SSKaqZaANEru8EJcznSpJQSUPZH?usp=share_link)
