@@ -1,7 +1,6 @@
 ## Hi, I'm Diana ✨
 
-👀 C++ Developer & Computer Science student at MIPT<br/>
-🪄 UX/UI Design student at Netology<br/>
+👀 C++ Developer & Computer Science student<br/>
 I’m interested in systems programming, DevOps, and high-performance software development.
 Currently focusing on C++, algorithms, Linux systems and distributed infrastructure.<br/>
 
